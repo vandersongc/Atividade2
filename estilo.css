@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color:#02274e;
+    color: #fff;
+    padding: 15px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#logo{
+    font-size: 42px;
+}
+
+
+.menus a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px;
+}
+main {
+    margin: 0 30px;
+}
+.imagens a img {
+    width: 150px;
+    height: 100px;
+}
+.titulos {    
+    margin: 10px 5px;
+}
+
+
+.subtitulos {
+    margin: 10px 0;
+}
