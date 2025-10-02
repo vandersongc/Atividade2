@@ -37,3 +37,16 @@ main {
 .subtitulos {
     margin: 10px 0;
 }
+
+.video{
+    width: 580px;
+}
+
+@media screen and (max-width: 580px) {
+    header{
+        width: 100vw;
+    }
+    .video{
+        width: 100vw;
+    }
+}
